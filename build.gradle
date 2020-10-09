@@ -25,7 +25,7 @@ dependencies {
 }
 
 group = 'com.hcl.vamsi'
-version = '0.0.1-SNAPSHOT'
+version = '1.0.0-SNAPSHOT'
 description = 'GeneralProgExec'
 sourceCompatibility = '1.8'
 
